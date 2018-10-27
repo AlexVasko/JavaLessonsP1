@@ -2,7 +2,7 @@ package com.javalesson.collections.arrays;
 
 import java.security.SecureRandom;
 
-public class Dies {
+public class Dice {
 
     public static void main(String[] args) {
         SecureRandom random  = new SecureRandom();
